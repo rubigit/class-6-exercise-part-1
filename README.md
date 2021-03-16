@@ -7,7 +7,7 @@ A:
 A:
 
 3. What computer language is the most widely used?
-A:
+A: Java
 
 4. What was the first registered domain?
 A:
