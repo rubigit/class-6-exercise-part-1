@@ -13,4 +13,4 @@ A:
 A:
 
 5. What was the first robot used for?
-A:
+A: The first commercial, digital and programmable robot was used to lift pieces of hot metal from die casting machines.
