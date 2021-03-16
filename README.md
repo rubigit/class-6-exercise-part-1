@@ -10,7 +10,7 @@ A:
 A:
 
 4. What was the first registered domain?
-A:
+A: Symbolics.com
 
 5. What was the first robot used for?
 A:
