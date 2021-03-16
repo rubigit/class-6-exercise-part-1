@@ -4,7 +4,7 @@ Quick Quiz:
 A:
 
 2. What country has the fastest Internet speed?
-A:
+A: Taiwan, 85.02 megabits per second
 
 3. What computer language is the most widely used?
 A:
