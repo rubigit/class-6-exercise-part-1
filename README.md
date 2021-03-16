@@ -1,7 +1,7 @@
 Quick Quiz:
 
 1. What was the first web browser?
-A:
+A: WorldWideWeb
 
 2. What country has the fastest Internet speed?
 A:
